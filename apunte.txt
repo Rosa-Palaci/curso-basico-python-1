@@ -1,0 +1,10 @@
+C L A S E 3:
+Algoritmo ¿Qué es ?Es una serie de pasos para resolver un problema
+- Finito (un inicio claro, y un fin, cierta cantidad de pasos para llegar al fin)
+- No ambiguo (que un paso finalidad en particular)
+
+C L A S E 3:
+
+
+C L A S E 3:
+C L A S E 3:
